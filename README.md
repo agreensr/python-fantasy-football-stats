@@ -1,3 +1,5 @@
+run$ python nflgame_FF_script.py
+
 My script is small compared to the limitless thing you could do with 
 nflgame api you can find more infomation on the page below.
 https://github.com/BurntSushi/nflgame
